@@ -9,5 +9,5 @@ Intructions to run the program:
 
 
 Thoughts on testing the concerned script:
-I simple unit test can be devised that will iteratively change the filtering conditions and compare the output with the filtered output, any error would indicate a failure, which should not happen given the current structure. 
+A simple unit test can be devised that will iteratively change the filtering conditions and compare the output with the filtered output, any error would indicate a failure, which should not happen given the current structure. 
 
